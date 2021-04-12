@@ -1,4 +1,7 @@
 # Workstation-Price-Prediction---Machine-Hack
-Workstation Price prediction hackathon by Machinehack. Public leaderboard rank: 27, Score: 0.169
+Workstation Price prediction hackathon by Machinehack. 
+
+Public leaderboard rank: 27, 
+Score: 0.169
 
 ![alt text](images/score.png)
